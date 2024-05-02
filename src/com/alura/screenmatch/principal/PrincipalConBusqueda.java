@@ -36,7 +36,7 @@ public class PrincipalConBusqueda {
 
             String direccion = "https://www.omdbapi.com/?t="+
                     busqueda.replace(" ", "+") +
-                    "&apikey=d4d0bf92";
+                    "&apikey=76542a0";
 
             try{
                 HttpClient client = HttpClient.newHttpClient();
