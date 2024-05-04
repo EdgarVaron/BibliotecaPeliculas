@@ -1,4 +1,4 @@
-# *Importante:* Descargar Json para poder ejecutar el programa
+# *Importante:* Descargar Gson para poder ejecutar el programa
   
 https://mvnrepository.com/artifact/com.google.code.gson/gson
 
